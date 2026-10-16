@@ -12,17 +12,14 @@
     <a href="https://t.me/ill_hack_you" target="_blank">
       <img src="https://img.shields.io/badge/Telegram-@ill__hack__you-38BDF8?style=for-the-badge&logo=telegram&logoColor=white&labelColor=0f172a" />
     </a>
-    <a href="tel:+998901234567" target="_blank">
-      <img src="https://img.shields.io/badge/Phone-+998_(XX)_XXX--XX--XX-F59E0B?style=for-the-badge&logo=phone&logoColor=white&labelColor=0f172a" />
+    <a href="tel:+998951419836" target="_blank">
+      <img src="https://img.shields.io/badge/Phone-+998_(95)_141--98--36-F59E0B?style=for-the-badge&logo=phone&logoColor=white&labelColor=0f172a" />
     </a>
-    <a href="https://wa.me/998901234567" target="_blank">
+    <a href="https://wa.me/998951419836" target="_blank">
       <img src="https://img.shields.io/badge/WhatsApp-Direct_Chat-22C55E?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=0f172a" />
     </a>
     <a href="https://instagram.com/ill_hack_you" target="_blank">
       <img src="https://img.shields.io/badge/Instagram-@ill__hack__you-EC4899?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0f172a" />
-    </a>
-    <a href="mailto:contact@hikmatullo.dev" target="_blank">
-      <img src="https://img.shields.io/badge/Email-contact@hikmatullo.dev-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0f172a" />
     </a>
   </p>
 
